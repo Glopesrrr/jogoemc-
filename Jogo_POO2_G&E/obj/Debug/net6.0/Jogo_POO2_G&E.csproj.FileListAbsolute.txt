@@ -1,0 +1,15 @@
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\bin\Debug\net6.0\Jogo_POO2_G&E.exe
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\bin\Debug\net6.0\Jogo_POO2_G&E.deps.json
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\bin\Debug\net6.0\Jogo_POO2_G&E.runtimeconfig.json
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\bin\Debug\net6.0\Jogo_POO2_G&E.dll
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\bin\Debug\net6.0\Jogo_POO2_G&E.pdb
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.csproj.AssemblyReference.cache
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.AssemblyInfoInputs.cache
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.AssemblyInfo.cs
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.csproj.CoreCompileInputs.cache
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.dll
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\refint\Jogo_POO2_G&E.dll
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.pdb
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\Jogo_POO2_G&E.genruntimeconfig.cache
+C:\Users\erikl\OneDrive\Área de Trabalho\JOGO_POO2_G&E\Jogo_POO2_G&E\obj\Debug\net6.0\ref\Jogo_POO2_G&E.dll
